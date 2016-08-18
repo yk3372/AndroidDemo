@@ -34,5 +34,5 @@ android {
     buildToolsVersion = '22.0.1'
 }
 
-apply from: 'rules.gradle'
-apply from: 'bintray.gradle'
+//apply from: 'rules.gradle'
+//apply from: 'bintray.gradle'
